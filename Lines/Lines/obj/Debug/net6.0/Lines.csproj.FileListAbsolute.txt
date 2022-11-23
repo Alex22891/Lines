@@ -1,0 +1,15 @@
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\bin\Debug\net6.0\Lines.exe
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\bin\Debug\net6.0\Lines.deps.json
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\bin\Debug\net6.0\Lines.runtimeconfig.json
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\bin\Debug\net6.0\Lines.dll
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\bin\Debug\net6.0\Lines.pdb
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.csproj.AssemblyReference.cache
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.AssemblyInfoInputs.cache
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.AssemblyInfo.cs
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.csproj.CoreCompileInputs.cache
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.dll
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\refint\Lines.dll
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.pdb
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\Lines.genruntimeconfig.cache
+C:\Users\malko\OneDrive\Рабочий стол\WPF\Lines\Lines\obj\Debug\net6.0\ref\Lines.dll
